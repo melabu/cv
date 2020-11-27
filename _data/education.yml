@@ -1,0 +1,14 @@
+# Education Template
+- layout: left
+  name: Universidad del Siglo 21
+  dates: 2020 - present
+  qualification: Programming
+  description: | 
+    Just started
+
+- layout: left
+  name: Universidad Argentina de la Empresa (UADE)
+  dates: 2015 - 2019
+  qualification: Advertising
+  description: | 
+    Incomplete
