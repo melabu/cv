@@ -16,7 +16,7 @@ darkmode: never
 github_username:  melabu
 stackoverflow_username: "melabu"
 linkedin_username: anal%C3%ADa-drago-83519a14
-behance_username: analiaviviana
+# behance_username: analiaviviana
 # twitter_username: jekyllrb
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -77,9 +77,11 @@ more_content: | # this will include new lines to allow paragraphs
 
   *Active listening*
 
-  *Communication*
+  *Oral and written communication skills*
 
-  *Problem-solving*
+  *Analytical thinking and problem-solving*
+
+  *Process modeling*
 
   **SKILLS**
   

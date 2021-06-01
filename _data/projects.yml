@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
-  name: Daily
-  link: https://www.behance.net/analiaviviana/daily
+  name: Portfolio
+  link: http://melabu.netlify.app/
   quote: >
     
   description: | # this will include new lines to allow paragraphs
