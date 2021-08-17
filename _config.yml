@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Analía Drago
-title: Web Designer
+title: Systems Analyst
 email: analia.drago@hotmail.com
 phone: "5491141641069"
 website: http://melabu.netlify.app/
@@ -46,8 +46,8 @@ linkedin_username: anal%C3%ADa-drago-83519a14
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Ana. Life has changed paths for me recently and I am therefore currently working towards becoming a Web Designer with a strong focus on User Experience. I have a great eye for aesthetics and I love visual simplicity as well.
-  I am very interested in taking my first steps as a web designer in a team with a strong focus on UI/UX. 
+  Hi! I'm Ana. Life has changed paths for me recently and I am therefore currently working towards becoming a Systems Analyst with a strong focus on User Experience. I have a great eye for aesthetics and I love visual simplicity as well.
+  I am very interested in taking my first steps becoming part of a team with a strong focus on UI/UX. 
 
   Based on my work experience, I am customer focussed, I am a strong communicator and have excellent writing skills.
   I am constantly looking up to improve myself as a professional and thus as a human being. Please take a look at my portfolio whenever you have the chance!
