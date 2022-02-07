@@ -46,11 +46,11 @@ linkedin_username: analiadrago
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Ana. Life has changed paths for me recently and I am therefore currently working towards becoming a Systems Analyst with a strong focus on User Experience. I have a great eye for aesthetics and I love visual simplicity as well.
-  I am very interested in taking my first steps becoming part of a team with a strong focus on UI/UX. 
-
-  Based on my work experience, I am customer focussed, I am a strong communicator and have excellent writing skills.
-  I am constantly looking up to improve myself as a professional and thus as a human being. Please take a look at my portfolio whenever you have the chance!
+  Hi! I'm Ana. I am a systems analyst student looking for my first IT work experience. 
+  Passionate about learning new technologies, creating and innovating, always striving 
+  to find a better way of doing things. I am constantly trying to improve myself as a 
+  professional and thus as a human being. Please don't hesitate in contacting me, I am 
+  eager to learn!
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -85,13 +85,15 @@ more_content: | # this will include new lines to allow paragraphs
 
   **SKILLS**
   
-  *Web design: HTML & CSS*
+  *Web design: HTML & CSS. Basic JavaScript *
 
   *Web programming with C# .NET*
 
   *Web Api .NET Core*
   
   *Object oriented programming with Java*
+
+  *Currently learning React*
 
   *Adobe Photoshop*
 
