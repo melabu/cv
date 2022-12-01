@@ -10,7 +10,7 @@ phone: "5491141641069"
 website: http://melabu.netlify.app/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  melabu
