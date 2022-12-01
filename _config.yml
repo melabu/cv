@@ -4,13 +4,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Analía Drago
-title: Systems Analyst
+title: Software Developer
 email: analia.drago@hotmail.com
 phone: "5491141641069"
 website: http://melabu.netlify.app/
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 github_username:  melabu
@@ -44,13 +44,9 @@ linkedin_username: analiadrago
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.png
+about_profile_image: images/profile1.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Ana. I am a systems analyst student looking for my first IT work experience. 
-  Passionate about learning new technologies, creating and innovating, always striving 
-  to find a better way of doing things. I am constantly trying to improve myself as a 
-  professional and thus as a human being. Please don't hesitate in contacting me, I am 
-  eager to learn!
+  Hello world! I'm Ana and I am currently working as a developer, taking my first steps towards a career in IT. Passionate about learning new technologies, facing new challenges, always striving to find a better way of doing things. Please don't hesitate in contacting me, I am eager to keep on learning!
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -75,31 +71,19 @@ more_content: | # this will include new lines to allow paragraphs
 
   *Design thinking*
 
-  *Active listening*
-
-  *Oral and written communication skills*
-
-  *Analytical thinking and problem-solving*
-
-  *Process modeling*
+  *Problem-solving*
 
   **SKILLS**
   
-  *Web design: HTML & CSS. Basic JavaScript*
+  *Web design: HTML & CSS. Currently learning JavaScript*
 
-  *Web programming with C# .NET*
-
-  *Web Api .NET Core*
+  *Backend: C# .NET - Web Api .NET Core*
   
-  *Object oriented programming with Java*
+  *Object oriented programming - Java*
+  
+  *Cloud: Microsoft Azure*
 
-  *Currently learning React*
-
-  *Adobe Photoshop*
-
-  *Figma*
-
-  *Microsoft Office*
+  *DB: MySQL Workbench*
 
   **CERTIFICATIONS**
 
