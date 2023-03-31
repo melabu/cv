@@ -46,7 +46,10 @@ linkedin_username: analiadrago
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile1.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello world! I'm Ana and I am currently working as a dev, taking my first steps towards a career in IT. Passionate about learning new technologies, facing new challenges, always striving to find a better way of doing things. Please don't hesitate in contacting me, I am eager to keep on learning!
+  Hello world! I'm Ana and I am currently working as a dev, taking my first steps towards an IT career. 
+  Passionate about learning new technologies, facing new challenges, always striving to find a better 
+  way of doing things.  I am currently looking forward to finding a front-end/web development oriented 
+  role that suits me. Please don't hesitate in contacting me, I am eager to keep on learning!
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
