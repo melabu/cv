@@ -1,8 +1,8 @@
 # Project template
-- layout: top-middle
-  name: Portfolio
-  link: http://melabu.netlify.app/
-  quote: >
+#- layout: top-middle
+#  name: Portfolio
+#  link: http://melabu.netlify.app/
+#  quote: >
     
-  description: | # this will include new lines to allow paragraphs
+#  description: | # this will include new lines to allow paragraphs
   
