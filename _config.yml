@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Analía Drago
 title: Software Developer
 email: analia.drago@hotmail.com
-phone: "+5491141641069"
+phone: "+31625121311"
 #website: http://melabu.netlify.app/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username:  melabu

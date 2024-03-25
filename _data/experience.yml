@@ -1,29 +1,36 @@
 # Experience template
 - layout: left
-  company: Accenture
-  job_title: Software Developer
-  dates: March 2022 - Present
+  company: CareerMentoring - Remote
+  job_title: Freelance Software Developer
+  dates: November 2023 - Present
   description: | 
-    Designing, building and configuring applications hosted in the cloud, to meet business processes and application requirements. Working end-to-end from the analysis, design, implementation, quality assurance (manual testing) to delivery and maintenance of the software product, system or for a specific lifecycle phase. I am part of an agile team that has high english exposure, currently working with a US team.
-
+    Adapted to a remote work environment, demonstrating the ability to commit long-term and full-time. Collaborated with diverse teams, including UX research and social media analysis, demonstrating strong problem-solving skills and the ability to work with minimal guidance. Responsible of creation, testing, maintenance, and improvement of the user interface of an integrated AI app built with Angular 17 and Bootstrap, showcasing my skills in the use of apps and technology.
+    
+- layout: left
+  company: Accenture - Remote
+  job_title: Software Developer
+  dates: March 2022 - November 2023
+  description: | 
+  Designed, built, and configured cloud-hosted (Azure DevOps) applications to meet business processes and requirements. Worked end-to-end from analysis, design, implementation, quality assurance (manual testing) to delivery and maintenance of the software product, system, or for a specific lifecycle phase. I was part of 2 agile teams with high English exposure, working with multi-cultural teams and also working very close with a US based team, demonstrating my ability to work U.S. business hours (Pacific Time, Central Time, or Eastern Time).
+  
 - layout: left
   company: Itaú Bank
   job_title: Business Process Analyst
   dates: May 2016 - May 2019
   description: | 
-    Responsible for creating new models that support business decisions by working closely with business leaders and users to establish initiatives and strategies to improve importing and to optimize costs. Strong understanding of regulatory and reporting requirements as well as plenty of experience in forecasting, and also understanding of key performance indicators.    
+    Conducted assessments of existing business processes to identify areas for improvement. Proactively addressed gaps and problems aligned with bank goals. Designed scalable, efficient, and customer-centric processes, developing end-to-end process flow diagrams. Managed process improvement initiatives from implementation to handoff. Collaborated with key cross-functional partners during the road mapping cycle to identify, influence, and drive impactful process solutions. Influence new process design to ensure high-level outcomes that are repeatable and scalable prior to new program implementation .I was also resposinble of mantaining the process documentation and authored internal newsletters to communicate the most relevant changes regarding the business processes.
 
-- layout: left
-  company: Citi Bank
-  job_title: Business Process Analyst
-  dates: Oct 2015 - Jan 2016
-  description: | 
-    Responsible for creating a detailed business analysis, outlining problems, opportunities and solutions for the business. Defining business requirements and reporting them back to stakeholders.
+# - layout: left
+#   company: Citi Bank
+#   job_title: Business Process Analyst
+#   dates: Oct 2015 - Jan 2016
+#   description: | 
+#     Responsible for creating a detailed business analysis, outlining problems, opportunities and solutions for the business. Defining business requirements and reporting them back to stakeholders.
     
 
-- layout: left
-  company: HSBC Bank
-  job_title: Customer Service Specialist
-  dates: May 2009 - May 2010
-  description: | 
-    Identifying, understanding, and exceeding customer needs to fulfill the requirements and solve issues related to the bank products: saving accounts, credit cards, loans, online Banking transactions, bank transfers, currency Exchange and more.
+# - layout: left
+#   company: HSBC Bank
+#   job_title: Customer Service Specialist
+#   dates: May 2009 - May 2010
+#   description: | 
+#     Identifying, understanding, and exceeding customer needs to fulfill the requirements and solve issues related to the bank products: saving accounts, credit cards, loans, online Banking transactions, bank transfers, currency Exchange and more.
