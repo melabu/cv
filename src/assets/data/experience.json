@@ -1,0 +1,88 @@
+{
+  "aboutMe": "Hello world! I am a skilled web developer with over 2 years of hands-on experience, specialized in creating user-centric web solutions that prioritize the user experience and accessibility. My journey began at a regional bank, where I collaborated with diverse stakeholders as a business process analyst. This experience somehow ignited my love for programming. A pivotal moment came when I enrolled in a prestigious bootcamp at a leading consultancy firm. There, I mastered programming fundamentals, fostered a collaborative work ethic, and gained proficiency in essential tools for my daily job. Since then, I've been working as a web app developer, consistently pushing boundaries in the digital realm. Recently, I relocated to the Netherlands, eager to embrace new challenges. I invite you to review my resume and connect with me to explore how I can contribute to your team.",
+  "experience": [
+    {
+      "name": "Career Mentoring",
+      "url": "",
+      "position": "Freelance FrontEnd Developer",
+      "dates": "Nov 2023 - Current",
+      "company_type": "Start Up",
+      "job_description": "Responsible of creation, testing, maintenance, and improvement of the user interface of the company app",
+      "tasks": [
+        "Developing new user-facing features using HTML5, CSS3, and JavaScript (Angular)",
+        "Troubleshooting and debuging issues as they arise",
+        "Using unit testing to ensure systems meet business needs",
+        "Participating in code reviews and providing constructive feedback to peers",
+        "Working closely with backend team to integrate frontend components with server-side logic",
+        "Building APIs to support client business needs",
+        "Contributing to the overall improvement of development processes and methodologies",
+        "Staying up-to-date with the latest trends and best practices in frontend development"
+      ],
+      "tools": [
+        "Angular 17",
+        "JavaScript",
+        "Typescript",
+        "Bootstrap",
+        "HTML/CSS",
+        "Gitlab",
+        "ClickUp",
+        "Slack"
+      ]
+    },
+    {
+      "name": "Accenture",
+      "url": "https://www.accenture.com/",
+      "position": "Application Web Developer",
+      "dates": "March 2022 - Nov 2023",
+      "company_type": "Global professional services company",
+      "job_description": "Responsible for designing, building and configuring internal applications hosted in the cloud, to meet business processes and requirements. Working end-to-end from the analysis, design, implementation, quality assurance (manual testing) to delivery and maintenance of the software product, system or for a specific lifecycle phase. I was part of an agile team that has high english exposure, currently working with a US team.",
+      "tasks": [
+        "Developing, testing, and maintaining high-quality software applications using .NET Core framework",
+        "Collaborating with cross-functional teams to understand project requirements and deliver robust solutions",
+        "Participating in all phases of the software development lifecycle, including design, development, testing, deployment, and maintenance",
+        "Advocating for writing clean, well-structured, and documented code following best practices and coding standards",
+        "Troubleshooting and debuging issues to ensure optimal performance and reliability of applications",
+        "Contributing to the continuous improvement of development processes and methodologies",
+        "Communicating effectively with team members and stakeholders to provide status updates, report issues, and seek feedback"
+      ],
+      "tools": [
+        "ASP .NET Core MVC Programming",
+        "ORM Entity Framework",
+        "C#",
+        "JavaScript",
+        "Angular",
+        "VueJs",
+        "HTML/CSS",
+        "Accesibility",
+        "Postman",
+        "SQL Workbench",
+        "Postgres",
+        "Microsoft Teams",
+        "Azure DevOps",
+        "Git"
+      ]
+    },
+    {
+      "name": "Itaú Bank",
+      "url": "https://www.itau.com/",
+      "position": "Business Process Analyst",
+      "dates": "May 2016 - May 2019",
+      "company_type": "International Bank",
+      "job_description": "Responsible for reviewing processes, collecting data, analyzing processes, identifying opportunities for improvement, and making changes.",
+      "tasks": [
+        "Conducting assessments of existing business processes to identify areas for improvement",
+        "Proactively addressing gaps and problems aligned with bank goals",
+        "Designing scalable, efficient, and customer-centric processes, developing end-to-end process flow diagrams.",
+        "Managing process improvement initiatives from implementation to handoff.",
+        "Collaborating with key cross-functional partners during the road mapping cycle to identify, influence, and drive impactful process solutions.",
+        "Influencing new process design to ensure high-level outcomes that are repeatable and scalable prior to new program implementation.",
+        "I was also resposinble of updating processes documentation and authored internal newsletters to communicate the most relevant changes regarding the business processes."
+      ],
+      "tools": [
+        "Visio/Bizagi",
+        "Microsoft Office 365",
+        "Clarity"
+      ]
+    }
+  ]
+}

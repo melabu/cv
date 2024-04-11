@@ -1,0 +1,81 @@
+<div>
+  <div class="container-fluid p-4" style="margin-top:1rem">
+    <div class="container">
+      <div class="display-6 text-center">
+        <h2 class="fw-lighter h2">About Me</h2>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-md-3">
+          <img class="container p-4 rounded-circle" alt="personal_image" [src]="personalImage" />
+        </div>
+        <div class="col-md-9">
+          <div class="py-4 fw-light">
+            <p>{{experienceData.aboutMe}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="display-6 text-center">
+        <h2 class="fw-lighter h2">Experience</h2>
+      </div>
+      <div class="" *ngFor="let item of experienceData.experience">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="p-4">
+              <h4>{{item.name}}</h4>
+              <a class="link-dark" href="{{item.url}}" target="_blank">{{item.url}}</a>
+              <h4>{{item.position}}</h4>
+              {{item.dates}}
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="py-4 lead">
+              <p class="custom-font">{{item.company_type}}</p>
+              <div class="text-start">
+                <p>{{item.job_description}}</p>
+                <div *ngIf="item.tasks.length > 0">
+                  <p>Tasks:</p>
+                  <ul>
+                    <p><li *ngFor="let task of item.tasks">{{task}}</li></p>
+                  </ul>
+                </div>
+                <div *ngIf="item.tools.length > 0">
+                  <p>Tools:</p>
+                  <ul>
+                    <p><li *ngFor="let tool of item.tools">{{tool}}</li></p>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="display-6 text-center">
+        <h2 class="fw-lighter h2">Education</h2>
+      </div>
+      <div class="p-4">
+        <h4 class="">{{educationData.uni_name}}</h4>
+        <h5>{{educationData.degree_name}}</h5>
+        <p>{{educationData.dates}}</p>
+      </div>
+    </div>
+    <div class="container">
+      <div class="display-6 text-center">
+        <h2 class="fw-lighter h2">A Little More About Me</h2>
+      </div>
+      <div class="p-4">
+        <h4 class="h4">Personal Skills: </h4>
+        <p class="fw-light">{{extrasData.personal_skills}}</p>
+      </div>
+      <div class="p-4" *ngFor="let item of extrasData.extras">
+        <div>
+          <h4 class="h4s">{{item.title}}: </h4>
+        </div>
+        <ul><p class="fw-light"><li *ngFor="let skill of item.list">{{skill}}</li></p></ul>
+      </div>
+    </div>
+  </div>
