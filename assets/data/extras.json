@@ -1,0 +1,39 @@
+{
+  "personal_skills": " Analytical thinking | Conceptual reasoning | Critical thinking | Time management | Organizational awareness | Vision focused on the business | Decision making | User-centered approach | Ability to work under pressure | Tolerance to stress and/or frustration | Innovation and creativity | Active listening | Conflict resolution | Strategic orientation | Assertiveness | Self-control | Motivation to achievement | Learning attitude and continuous improvement.",
+  "extras": [
+    {
+      "title": "Skills",
+      "list": [
+        "Javascript",
+        "AngularJS",
+        "VueJS",
+        "HTML5&CSS3",
+        "Typescript",
+        "C#",
+        "MySQL workbench/PostgreSQL",
+        "Azure DevOps",
+        "Agile Methodologies",
+        "UX/Design Thinking",
+        "UI/Figma"
+      ]
+    },
+    {
+      "title": "Languages",
+      "list": [
+        "English: Advanced",
+        "Spanish: Native"
+      ]
+    },
+    {
+      "title": "Trainings",
+      "list": [
+        "Scrum Fundamentals Certified (SFC) - Udemy (2019)",
+        "UX/UI Design - CoderHouse (2020)",
+        "FullStack C# .NET Developer -  EducacionIT Bootcamp (2021)",
+        "Fundamentals of Digital Marketing - Google (2024)",
+        "Cloud Computing - Google (2024)",
+        "Elements of AI - University of Helsinki (2024)"
+      ]
+    }
+  ]
+}
