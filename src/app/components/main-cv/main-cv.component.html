@@ -9,7 +9,7 @@
           <img class="container p-4 rounded-circle" alt="personal_image" [src]="personalImage" />
         </div>
         <div class="col-md-9">
-          <div class="py-4 fw-light">
+          <div class="py-4 fw-light text-justify">
             <p>{{experienceData.aboutMe}}</p>
           </div>
         </div>
@@ -38,7 +38,7 @@
                 <div *ngIf="item.tasks.length > 0">
                   <p>Tasks:</p>
                   <ul>
-                    <p><li *ngFor="let task of item.tasks">{{task}}</li></p>
+                    <p class="text-justify"><li *ngFor="let task of item.tasks">{{task}}</li></p>
                   </ul>
                 </div>
                 <div *ngIf="item.tools.length > 0">
