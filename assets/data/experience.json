@@ -7,16 +7,15 @@
       "position": "Freelance FrontEnd Developer",
       "dates": "Nov 2023 - Current",
       "company_type": "Start Up",
-      "job_description": "Responsible of creation, testing, maintenance, and improvement of the user interface of the company app.",
+      "job_description": "Creation, testing, and enhancement of company app's user interface.",
       "tasks": [
-        "Developing new user-facing features using HTML5, CSS3, and JavaScript (Angular)",
-        "Troubleshooting and debuging issues as they arise",
-        "Using unit testing to ensure systems meet business needs",
-        "Participating in code reviews and providing constructive feedback to peers",
-        "Working closely with backend team to integrate frontend components with server-side logic",
-        "Building APIs to support client business needs",
-        "Contributing to the overall improvement of development processes and methodologies",
-        "Staying up-to-date with the latest trends and best practices in frontend development"
+        "Develop new user-facing features using HTML5, CSS3, and JavaScript (Angular)",
+        "Work closely with backend team to integrate frontend components with server-side logic.",
+        "Participate in code reviews and provide constructive feedback to peers.",
+        "Contribute to the overall improvement of development processes and methodologies.",
+        "Building APIs to meet client needs.",
+        "Troubleshoot and debug issues promptly.",
+        "Conduct unit tests to align with business requirements."
       ],
       "tools": [
         "Angular 17",
@@ -35,20 +34,19 @@
       "position": "Application Web Developer",
       "dates": "March 2022 - Nov 2023",
       "company_type": "Global professional services company",
-      "job_description": "Responsible for designing, building and configuring internal applications hosted in the cloud, to meet business processes and requirements. Working end-to-end from the analysis, design, implementation, quality assurance (manual testing) to delivery and maintenance of the software product, system or for a specific lifecycle phase. I was part of an agile team that has high english exposure, currently working with a US team.",
+      "job_description": "Designing, building, and configuring cloud-based internal applications to align with business needs. Taking part of the entire software development lifecycle from analysis to maintenance, including manual testing. Collaborating within an agile team with strong English proficiency, partnering with a US-based team.",
       "tasks": [
-        "Developing, testing, and maintaining high-quality software applications using .NET Core framework",
-        "Collaborating with cross-functional teams to understand project requirements and deliver robust solutions",
-        "Participating in all phases of the software development lifecycle, including design, development, testing, deployment, and maintenance",
-        "Advocating for writing clean, well-structured, and documented code following best practices and coding standards",
-        "Troubleshooting and debuging issues to ensure optimal performance and reliability of applications",
-        "Contributing to the continuous improvement of development processes and methodologies",
-        "Communicating effectively with team members and stakeholders to provide status updates, report issues, and seek feedback"
+        "Develop, test, and maintain high-quality software using mainly .NET Core, Angular and VueJS frameworks.",
+        "Collaborate with cross-functional teams to understand project requirements and deliver solutions.",
+        "Participate in all phases of the software development lifecycle, including design, development & testing.",
+        "Advocate for clean, well-structured, and documented code following best practices and coding standards.",
+        "Troubleshoot and debug issues to ensure optimal performance.",
+        "Contribute to the continuous improvement of development processes and methodologies.",
+        "Communicate effectively with team members to provide status updates, report issues, and seek feedback."
       ],
       "tools": [
-        "ASP .NET Core MVC Programming",
+        "C# ASP .NET Core MVC Programming",
         "ORM Entity Framework",
-        "C#",
         "JavaScript",
         "Angular",
         "VueJs",
@@ -68,15 +66,14 @@
       "position": "Business Process Analyst",
       "dates": "May 2016 - May 2019",
       "company_type": "International Bank",
-      "job_description": "Responsible for reviewing processes, collecting data, analyzing processes, identifying opportunities for improvement, and making changes.",
+      "job_description": "Responsible for identifying areas of improvement in the business processes, developing and implementing new strategies and technologies, and collaborating with stakeholders to ensure alignment and successful adoption of the new procedures.",
       "tasks": [
-        "Conducting assessments of existing business processes to identify areas for improvement",
-        "Proactively addressing gaps and problems aligned with bank goals",
-        "Designing scalable, efficient, and customer-centric processes, developing end-to-end process flow diagrams.",
-        "Managing process improvement initiatives from implementation to handoff.",
-        "Collaborating with key cross-functional partners during the road mapping cycle to identify, influence, and drive impactful process solutions.",
-        "Influencing new process design to ensure high-level outcomes that are repeatable and scalable prior to new program implementation.",
-        "I was also resposinble of updating processes documentation and authored internal newsletters to communicate the most relevant changes regarding the business processes."
+        "Assess business processes to identify areas for improvement, obstacles and inefficiencies.",
+        "Design scalable, efficient, and customer-centric processes, developing process workflow diagrams.",
+        "Collaborate with cross-functional teams and stakeholders to implement process changes.",
+        "Monitor process audits and evaluate the effectiveness of implemented process.",
+        "Create process documentation and guidelines, including standard operating procedures.",
+        "Communicate changes internally through daily newsletters."
       ],
       "tools": [
         "Visio/Bizagi",
