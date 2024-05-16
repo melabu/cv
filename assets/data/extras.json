@@ -1,22 +1,6 @@
 {
-  "personal_skills": " Analytical thinking | Conceptual reasoning | Critical thinking | Time management | Organizational awareness | Vision focused on the business | Decision making | User-centered approach | Ability to work under pressure | Tolerance to stress and/or frustration | Innovation and creativity | Active listening | Conflict resolution | Strategic orientation | Assertiveness | Self-control | Motivation to achievement | Learning attitude and continuous improvement.",
+  "personal_skills": " Analytical thinking | Decision Making | Innovation and creativity | Strategic orientation | Organizational awareness | Active listening | User-centered approach | Team player | Conflict resolution | Time management | Ability to work under pressure | Tolerance to stress and/or frustration | Assertiveness | Self-control | Motivation to achievement | Learning attitude and continuous improvement.",
   "extras": [
-    {
-      "title": "Skills",
-      "list": [
-        "Javascript",
-        "AngularJS",
-        "VueJS",
-        "HTML5&CSS3",
-        "Typescript",
-        "C#",
-        "MySQL workbench/PostgreSQL",
-        "Azure DevOps",
-        "Agile Methodologies",
-        "UX/Design Thinking",
-        "UI/Figma"
-      ]
-    },
     {
       "title": "Languages",
       "list": [

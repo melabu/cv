@@ -1,19 +1,18 @@
 {
-  "aboutMe": "Hello! I am a skilled web developer with over 2 years of hands-on experience, specialized in creating user-centric web solutions that prioritize the user experience and accessibility. My journey began at a regional bank, where I collaborated closely with clients as a customer service specialist. Later, I worked with different stakeholders as a business process analyst, which ignited my love for programming and I had the chance to join a coding bootcamp. There, I mastered programming fundamentals, adopted a team-oriented approach, and became more proficient with the basic tools for my daily tasks. Since then, I've been working as a web app developer, consistently pushing boundaries in the digital world. Recently, I relocated to the Netherlands, eager to embrace new challenges. I invite you to review my resume and connect with me to explore how I can contribute to your team.",
+  "aboutMe": "Experienced professional with a strong track record in social media management, business process analysis, and web development. Adaptable and detail-oriented, I am a team-player collaborator who quickly learns new skills. My unique blend of analytical skills and effective communication makes me an asset to any team. As a fully bilingual individual (Spanish and English) currently learning Dutch while based in The Netherlands, I am well-equipped to tackle routine tasks and strategic projects. Let’s connect and unlock success together! 🤝",
   "experience": [
     {
       "name": "Career Mentoring",
       "url": "",
-      "position": "Freelance FrontEnd Developer",
+      "position": "Freelance Web Designer",
       "dates": "Nov 2023 - Current",
-      "company_type": "Start Up",
+      "company_type": "Project - Volunteer",
       "job_description": "Creation, testing, and enhancement of company app's user interface.",
       "tasks": [
         "Develop new user-facing features using HTML5, CSS3, and JavaScript (Angular)",
         "Work closely with backend team to integrate frontend components with server-side logic.",
         "Participate in code reviews and provide constructive feedback to peers.",
         "Contribute to the overall improvement of development processes and methodologies.",
-        "Building APIs to meet client needs.",
         "Troubleshoot and debug issues promptly.",
         "Conduct unit tests to align with business requirements."
       ],
@@ -58,6 +57,33 @@
         "Microsoft Teams",
         "Azure DevOps",
         "Git"
+      ]
+    },
+    {
+      "name": "Todos al Mundo",
+      "url": "https://www.almundo.com.ar/",
+      "position": "Social Media Assistant",
+      "dates": "Feb 2020 - Dic 2020",
+      "company_type": "AlMundo franchise",
+      "job_description": "Responsible for the social media management of the franchise.",
+      "tasks": [
+        "Upload and curate engaging multimedia content and manage day-to-day interactions and inquiries.",
+        "Gather information on audience profile and engagement, industry-related trends and marketing insights",
+        "Develop content calendar, campaign schedules, posts on platforms such as Instagram and Facebook.",
+        "Collaborate with internal teams on content development, strategy, and promotional initiatives.",
+        "Moderate conversations, establish rapport with the brand audience, manage reviews and feedback from customers.",
+        "Research influencers, compatible products, and businesses to form strategic partnerships.",
+        "Create written content (captions, descriptions, etc.) for social media posts.",
+        "Conduct general administration.",
+        "Ad hoc tasks"
+      ],
+      "tools": [
+        "Canva",
+        "CapCut",
+        "Hootsuite",
+        "Instagram",
+        "Google Drive",
+        "Microsoft Office 365"
       ]
     },
     {
