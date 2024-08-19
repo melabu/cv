@@ -1,30 +1,34 @@
 {
-  "aboutMe": "Experienced professional with a strong track record in social media management, business process analysis, and web development. Adaptable and detail-oriented, I am a team-player collaborator who quickly learns new skills. My unique blend of analytical skills and effective communication makes me an asset to any team. As a fully bilingual individual (Spanish and English) currently learning Dutch while based in The Netherlands, I am well-equipped to tackle routine tasks and strategic projects. Let’s connect and unlock success together! 🤝",
+  "aboutMe": "Experienced professional with a strong track record in social media management, business process analysis, and web development. Adaptable and detail-oriented, I am a team-player collaborator who quickly learn new skills. My unique blend of analytical skills and effective communication makes me an asset to any team. As a fully bilingual individual (Spanish and English) currently learning Dutch while based in The Netherlands, I am well-equipped to tackle routine tasks and strategic projects. Let’s connect and unlock success together! 🤝",
   "experience": [
     {
-      "name": "Career Mentoring",
+      "name": "Self-employed",
       "url": "",
-      "position": "Freelance Web Designer",
+      "position": "Freelance Web Developer",
       "dates": "Nov 2023 - Current",
-      "company_type": "Project - Volunteer",
+      "company_type": "Self-employed",
       "job_description": "Creation, testing, and enhancement of company app's user interface.",
       "tasks": [
-        "Develop new user-facing features using HTML5, CSS3, and JavaScript (Angular)",
-        "Work closely with backend team to integrate frontend components with server-side logic.",
-        "Participate in code reviews and provide constructive feedback to peers.",
-        "Contribute to the overall improvement of development processes and methodologies.",
-        "Troubleshoot and debug issues promptly.",
-        "Conduct unit tests to align with business requirements."
+        "Conduct an in-depth assessment of the current system, evaluating its alignment with business and product objectives.",
+        "Carry out user research to understand the needs, concerns, and usage patterns of both end-users and technical users.",
+        "Design new product solutions, creating prototypes aimed at enhancing system functionality and usability.",
+        "Conduct usability testing with real users to ensure the new designs were intuitive and user-friendly.",
+        "Provide detailed recommendations for the implementation and launch of new features."
       ],
       "tools": [
-        "Angular 17",
-        "JavaScript",
-        "Typescript",
-        "Bootstrap",
+        "User Research",
+        "Usability Testing",
+        "Product Design",
+        "UX/UI",
         "HTML/CSS",
-        "Gitlab",
+        "Prototyping",
         "ClickUp",
-        "Slack"
+        "Product Management",
+        "Design Thinking",
+        "Wireframing",
+        "Customer Experience",
+        "Agile",
+        "Project Management"
       ]
     },
     {
