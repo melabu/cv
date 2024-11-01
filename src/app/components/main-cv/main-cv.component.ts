@@ -10,7 +10,7 @@ import * as extraData from '../../../assets/data/extras.json';
 })
 export class MainCvComponent implements OnInit{
 
-  personalImage: string = "assets/images/fotocv2.jpg"
+  personalImage: string = "assets/images/fotocv.jpg"
   experienceData: any = expData;
   educationData: any = eduData;
   extrasData: any = extraData;
