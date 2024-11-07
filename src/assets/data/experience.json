@@ -2,40 +2,10 @@
   "aboutMe": "Experienced professional with a strong track record in social media management, business process analysis, and web development. Adaptable and detail-oriented, I am a team-player collaborator who quickly learn new skills. My unique blend of analytical skills and effective communication makes me an asset to any team. As a fully bilingual individual (Spanish and English) currently learning Dutch while based in The Netherlands, I am well-equipped to tackle routine tasks and strategic projects. Let’s connect and unlock success together! 🤝",
   "experience": [
     {
-      "name": "Self-employed",
-      "url": "",
-      "position": "Freelance Web Developer",
-      "dates": "Nov 2023 - Current",
-      "company_type": "Self-employed",
-      "job_description": "Creation, testing, and enhancement of company app's user interface.",
-      "tasks": [
-        "Conduct an in-depth assessment of the current system, evaluating its alignment with business and product objectives.",
-        "Carry out user research to understand the needs, concerns, and usage patterns of both end-users and technical users.",
-        "Design new product solutions, creating prototypes aimed at enhancing system functionality and usability.",
-        "Conduct usability testing with real users to ensure the new designs were intuitive and user-friendly.",
-        "Provide detailed recommendations for the implementation and launch of new features."
-      ],
-      "tools": [
-        "User Research",
-        "Usability Testing",
-        "Product Design",
-        "UX/UI",
-        "HTML/CSS",
-        "Prototyping",
-        "ClickUp",
-        "Product Management",
-        "Design Thinking",
-        "Wireframing",
-        "Customer Experience",
-        "Agile",
-        "Project Management"
-      ]
-    },
-    {
       "name": "Accenture",
       "url": "https://www.accenture.com/",
       "position": "Application Web Developer",
-      "dates": "March 2022 - Nov 2023",
+      "dates": "2021 - 2023",
       "company_type": "Global professional services company",
       "job_description": "Designing, building, and configuring cloud-based internal applications to align with business needs. Taking part of the entire software development lifecycle from analysis to maintenance, including manual testing. Collaborating within an agile team with strong English proficiency, partnering with a US-based team.",
       "tasks": [
@@ -67,19 +37,17 @@
       "name": "Todos al Mundo",
       "url": "https://www.almundo.com.ar/",
       "position": "Social Media Assistant",
-      "dates": "Feb 2020 - Dic 2020",
-      "company_type": "AlMundo franchise",
+      "dates": "2020",
+      "company_type": "Travel agency",
       "job_description": "Responsible for the social media management of the franchise.",
       "tasks": [
         "Upload and curate engaging multimedia content and manage day-to-day interactions and inquiries.",
-        "Gather information on audience profile and engagement, industry-related trends and marketing insights",
+        "Gather information on audience profile and engagement, industry-related trends and marketing insights.",
         "Develop content calendar, campaign schedules, posts on platforms such as Instagram and Facebook.",
         "Collaborate with internal teams on content development, strategy, and promotional initiatives.",
         "Moderate conversations, establish rapport with the brand audience, manage reviews and feedback from customers.",
         "Research influencers, compatible products, and businesses to form strategic partnerships.",
-        "Create written content (captions, descriptions, etc.) for social media posts.",
-        "Conduct general administration.",
-        "Ad hoc tasks"
+        "Create written content (captions, descriptions, etc.) for social media posts."
       ],
       "tools": [
         "Canva",
@@ -94,7 +62,7 @@
       "name": "Itaú Bank",
       "url": "https://www.itau.com/",
       "position": "Business Process Analyst",
-      "dates": "May 2016 - May 2019",
+      "dates": "2016 - 2019",
       "company_type": "International Bank",
       "job_description": "Responsible for identifying areas of improvement in the business processes, developing and implementing new strategies and technologies, and collaborating with stakeholders to ensure alignment and successful adoption of the new procedures.",
       "tasks": [
@@ -103,12 +71,35 @@
         "Collaborate with cross-functional teams and stakeholders to implement process changes.",
         "Monitor process audits and evaluate the effectiveness of implemented process.",
         "Create process documentation and guidelines, including standard operating procedures.",
-        "Communicate changes internally through daily newsletters."
+        "In charge of communicating changes internally through daily newsletters."
       ],
       "tools": [
         "Visio/Bizagi",
         "Microsoft Office 365",
         "Clarity"
+      ]
+    },
+    {
+      "name": "HSBC Bank",
+      "url": "https://www.hsbc.com/",
+      "position": "Customer Service Representative",
+      "dates": "2008 - 2010",
+      "company_type": "International Bank",
+      "job_description": "Responsible for delivering exceptional support and service to customers, ensuring their financial needs were met with professionalism and efficiency, resolving a wide range of inquiries, from account management to transaction troubleshooting, while adhering to company policies and maintaining a high level of customer satisfaction.",
+      "tasks": [
+        "Managed inbound customer calls, addressing account inquiries, transactions, and service issues.",
+        "Assisted customers with complex banking inquiries, including loan process applications, credit card issues, and digital banking support.",
+        "Provided personalized banking solutions and advice, identifying opportunities to promote financial products and services.",
+        "Collaborated with internal departments to resolve escalated customer concerns, ensuring timely and satisfactory outcomes."
+      ],
+      "tools": [
+        "AS400",
+        "HSBC CRM",
+        "VISA",
+        "Master",
+        "Local delivery service app",
+        "Home Banking Services app",
+        "Microsoft Office 365"
       ]
     }
   ]
