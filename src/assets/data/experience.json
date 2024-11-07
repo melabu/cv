@@ -2,6 +2,36 @@
   "aboutMe": "Experienced professional with a strong track record in social media management, business process analysis, and web development. Adaptable and detail-oriented, I am a team-player collaborator who quickly learn new skills. My unique blend of analytical skills and effective communication makes me an asset to any team. As a fully bilingual individual (Spanish and English) currently learning Dutch while based in The Netherlands, I am well-equipped to tackle routine tasks and strategic projects. Let’s connect and unlock success together! 🤝",
   "experience": [
     {
+      "name": "Self-employed",
+      "url": "",
+      "position": "Freelance Web Developer",
+      "dates": "2023 - Current",
+      "company_type": "Self-employed",
+      "job_description": "Creation, testing, and enhancement of company app's user interface.",
+      "tasks": [
+      "Conduct an in-depth assessment of the current system, evaluating its alignment with business and product objectives.",
+      "Carry out user research to understand the needs, concerns, and usage patterns of both end-users and technical users.",
+      "Design new product solutions, creating prototypes aimed at enhancing system functionality and usability.",
+      "Conduct usability testing with real users to ensure the new designs were intuitive and user-friendly.",
+      "Provide detailed recommendations for the implementation and launch of new features."
+      ],
+      "tools": [
+      "User Research",
+      "Usability Testing",
+      "Product Design",
+      "UX/UI",
+      "HTML/CSS",
+      "Prototyping",
+      "ClickUp",
+      "Product Management",
+      "Design Thinking",
+      "Wireframing",
+      "Customer Experience",
+      "Agile",
+      "Project Management"
+      ]
+      },
+    {
       "name": "Accenture",
       "url": "https://www.accenture.com/",
       "position": "Application Web Developer",
